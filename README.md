@@ -1,1 +1,3 @@
 # GNCIPL_Data_Analysis_Task_no_5
+
+An automated chatbot for data queries and visualization is an AI-powered system that can understand user questions related to data, fetch relevant information from connected data sources, and generate visual charts or graphs on demand. Using tools like Python, GPT, chatbot frameworks, and visualization libraries, the chatbot can interpret natural language queries, run the necessary data analysis, and interactively present results. This provides easy, user-friendly access to business insights without requiring technical skills. Such chatbots are widely used in customer service, business analytics, reporting, and decision-making.
